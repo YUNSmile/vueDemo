@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vuetest
 
 > A Vue.js project
@@ -32,4 +31,3 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 =======
 # vueDemo
 VUE框架学习
->>>>>>> 08cfa1fb0138dba02e5c66d522e509ed27d6281e
